@@ -236,7 +236,9 @@ for (Bentuk b : daftar) {
 
 ###  Hasil keluaran program
 
-![Hasil keluaran program](<img width="248" height="159" alt="image" src="https://github.com/user-attachments/assets/392b6389-caa2-4855-bb6e-25d4579c7a90" />
+<img width="248" height="159" alt="Screenshot 2026-10-10 080117" src="https://github.com/user-attachments/assets/e7dcc143-d268-4c00-8e18-fe563320d4d1" />
+
+
 )
 | | |
 |---|---|
