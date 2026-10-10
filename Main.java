@@ -13,7 +13,6 @@ public class Main {
         silinder.printInfo();
 
         System.out.println();
-        System.out.println("=== Demo Polimorfisme ===");
         Bentuk[] daftar = new Bentuk[3];
         daftar[0] = bujur;
         daftar[1] = lingkaran;
