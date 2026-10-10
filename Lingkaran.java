@@ -4,7 +4,7 @@ public class Lingkaran extends Bentuk {
        super(warna);
        this.radius = radius; 
     }
-    public double getRaius (){
+    public double getRadius (){
         return radius;
     }
     public void setRadius(double r){
